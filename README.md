@@ -19,6 +19,7 @@
 - Vložte skript do adresáře `resources`
 - Přidejte `ensure wc_utility` do svého `server.cfg`
 
-## Pokud chcete od vývojáře základní skript, pod touto zprávou je odkaz ale varujeme vás že nemusí obsahovat úpravy a český překlad.
+## Originální soubory
 
+- Pokud chcete od vývojáře základní skript, pod touto zprávou je odkaz ale varujeme vás že nemusí obsahovat úpravy a český překlad.
 - https://github.com/zRxnx/zrx_utility
